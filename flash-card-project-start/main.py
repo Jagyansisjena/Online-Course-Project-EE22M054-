@@ -57,33 +57,6 @@ wrong_img = PhotoImage(file=r"C:\Users\jagya\Downloads\flash-card-project-start\
 wrong = Button(image=wrong_img, highlightthickness=0,command=next_card)
 wrong.grid(row=5, column=0)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 next_card()
 window.mainloop()
 
